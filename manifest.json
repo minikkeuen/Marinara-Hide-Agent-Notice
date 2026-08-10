@@ -1,0 +1,15 @@
+{
+  "kind": "marinara.personal-extension",
+  "version": 1,
+  "config": {
+    "name": "Hide Default Agent Notice",
+    "version": "1.0.0",
+    "description": "선택한 에이전트 연결, 대체 모델 안내를 숨깁니다.",
+    "runtime": "client",
+    "enabled": false,
+    "capabilities": [
+      "full_page_access"
+    ],
+    "jsPath": "extension.js"
+  }
+}
